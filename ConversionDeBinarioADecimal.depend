@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677369076 source:c:\users\gtx computacion\documents\unla\lenguaje c\conversiondebinarioadecimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
